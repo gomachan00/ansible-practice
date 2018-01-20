@@ -1,12 +1,12 @@
 [lbservers]
-lb.devops-book.local
+lb
 
 [webservers]
-web1.devops-book.local
-web2.devops-book.local
+web1
+web2
 
 [ciservers]
 localhost
 
 [kibanaservers]
-kibana.devops-book.local
+kibana
